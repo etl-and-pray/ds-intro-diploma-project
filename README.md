@@ -23,4 +23,4 @@
 * **Библиотеки:** Pandas, NumPy, SciPy / Statsmodels, Matplotlib, Seaborn
 
 ## Структура репозитория
-* `final_project.ipynb` — Jupyter Notebook с полным кодом исследования, расчетами и выводами.
+* `финальная работа.ipynb` — Jupyter Notebook с полным кодом исследования, расчетами и выводами.
